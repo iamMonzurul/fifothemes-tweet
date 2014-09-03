@@ -1,6 +1,6 @@
 fifothemes-tweet
 ================
-* To make this script work you will have to create a app in twitter and get the API information.
+* To make this script work you will have to create an app in twitter and get the API information.
 * Go to ajax/getFromTwitter.php and look for this lines 
 ```
       $consumerKey = 'Your Consumer Key';
